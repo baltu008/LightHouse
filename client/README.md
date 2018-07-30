@@ -1,4 +1,3 @@
-
 # LightHouse Mental Health
 
 ## Heroku:
